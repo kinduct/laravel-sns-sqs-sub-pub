@@ -1,5 +1,5 @@
 {
-    "name": "mvjacobs/laravel-sns-sqs-sub-pub",
+    "name": "kinduct/laravel-sns-sqs-sub-pub",
     "description": "A simple Laravel service provider which adds a new queue connector to handle SNS subscription queues.",
     "license": "MIT",
     "keywords": ["laravel", "lumen", "queue", "sns subscription", "sns publishing", "microservices", "event-driven", "aws", "sqs", "sns"],

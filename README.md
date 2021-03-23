@@ -14,7 +14,7 @@ This is especially useful in a miroservice architecture where multiple services 
 ## Installation
 You can install the package via composer
 ```bash
-composer require mvjacobs/laravel-sns-sqs-sub-pub 
+composer require kinduct/laravel-sns-sqs-sub-pub 
 ```
 You can optionally publish the config file with:
 ```bash
